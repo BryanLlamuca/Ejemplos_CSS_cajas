@@ -1,0 +1,21 @@
+div{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    display: block;
+    
+}
+
+
+
+#caja2{
+    position: absolute;
+    left: 200px;
+    top: 15px;
+}
+
+#caja4{
+    position: absolute;
+    left: 200px;
+    top: 385px;
+}
